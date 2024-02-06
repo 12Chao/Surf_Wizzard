@@ -1,1 +1,2 @@
-# Surf_Wizzard \n A tool for DFT calculations for surface reactions
+# Surf_Wizzard 
+A tool for DFT calculations for surface reactions
